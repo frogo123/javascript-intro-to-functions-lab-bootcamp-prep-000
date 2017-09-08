@@ -5,4 +5,5 @@ return string;
 
 function whisper(string){
   string = string.toLowerCase();
+  return string;
 }
